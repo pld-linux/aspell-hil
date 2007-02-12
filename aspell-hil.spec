@@ -1,5 +1,5 @@
 Summary:	Hiligaynon dictionary for aspell
-Summary(pl.UTF-8):   Słownik hiligainon dla aspella
+Summary(pl.UTF-8):	Słownik hiligainon dla aspella
 Name:		aspell-hil
 Version:	0.11
 %define	subv	0
