@@ -1,5 +1,5 @@
 Summary:	Hiligaynon dictionary for aspell
-Summary(pl):	S≥ownik hiligainon dla aspella
+Summary(pl.UTF-8):   S≈Çownik hiligainon dla aspella
 Name:		aspell-hil
 Version:	0.11
 %define	subv	0
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Hiligaynon dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik hiligainon (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik hiligainon (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-hil-%{version}-%{subv}
